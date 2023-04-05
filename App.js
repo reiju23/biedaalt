@@ -9,7 +9,7 @@ export default function App() {
       <TouchableOpacity onPress={()=>{
         alert('Hellow World!!!')
         background = 'red' }}>
-        <Text>Red background</Text>
+        <Text>background</Text>
       </TouchableOpacity>
       <StatusBar style="auto" />
     </View>
